@@ -2,8 +2,8 @@
 class Board
 {
 private:
-	int rows = 2; // ∞°∑Œ x√‡
-	int cols = 2; // ºº∑Œ y√‡
+	int rows = 2; // Í∞ÄÎ°ú
+	int cols = 2; // ÏÑ∏Î°ú
 	int **mine_Array = nullptr;
 	void make_Array(int x, int y);
 
